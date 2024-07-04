@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saidul islam</h1>
 <h3 align="center">A passionate Wev developer from Bangladesh</h3>
-<image align="right" alt="coding" width="400" src="img.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinoman34&label=Profile%20views&color=0e75b6&style=flat" alt="sinoman34" /> </p>
 
 - 🔭 I’m currently Studying Computer Science **Ui/Ux design**
